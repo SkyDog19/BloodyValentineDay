@@ -72,7 +72,7 @@ h2 {
 
 .block-text {
     margin: 0 auto;
-    width: 650px;
+    max-width: 650px;
 }
 
 p {
